@@ -2,10 +2,9 @@ My name is Benjamin Lincoln and I'm a Front End Web Developer!
 
 I Specialize in:
 
-ㅤ🌐 Highly Accessible and SEO targeting HTML
+🌐 Creating Highly Accessible and SEO-targeted HTML
 
-ㅤ🎨 Modern CSS Features
+🎨 Implementing Modern CSS Features
 
-ㅤ🤖 Dynamic & Interactive JavaScript
-
+🤖 Building Dynamic and Interactive Websites with JavaScript
 
