@@ -4,5 +4,5 @@ My name is Benjamin Lincoln, and I'm a Front End Web Developer specializing in:
 
 ㅤ🎨 Implementing Modern CSS Features
 
-ㅤ🤖 Building Dynamic and Interactive Websites with JavaScript
+ㅤ🤖 Building Dynamic and Interactive Pages with JavaScript
 
