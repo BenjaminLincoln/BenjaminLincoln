@@ -8,5 +8,4 @@ I Specialize in:
 
 🌐 Highly Accessible and SEO targeting HTML
 
-
-
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
