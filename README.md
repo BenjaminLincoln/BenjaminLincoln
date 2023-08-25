@@ -1,6 +1,6 @@
-My name is Benjamin Lincoln and I'm a Front End Web Developer with over 3+ years of experience.
+My name is Benjamin Lincoln and I'm a Front End Web Developer!
 
-I Specialize in:
+I've spent 3 years specializing in:
 
 🤖 Using JavaScript to add dynamic and interactive website elements
 
