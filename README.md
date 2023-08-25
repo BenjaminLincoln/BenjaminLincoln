@@ -1,6 +1,4 @@
-My name is Benjamin Lincoln and I'm a Front End Web Developer!
-
-I Specialize in:
+My name is Benjamin Lincoln, and I'm a Front End Web Developer specializing in:
 
 ㅤ🌐 Creating Highly Accessible and SEO targeted HTML
 
